@@ -1,0 +1,1778 @@
+{
+  "titulo": "Directorio telefónico de colaboradores",
+  "subtitulo": "Áreas de servicio a la comunidad y usuarios externos",
+  "generado": "2026-07-07T14:27:10.369Z",
+  "total": 176,
+  "columnas": [
+    "sede",
+    "cargo",
+    "dependencia",
+    "nombres",
+    "apellidos",
+    "pbx",
+    "extension",
+    "correo"
+  ],
+  "colaboradores": [
+    {
+      "sede": "APARTADÓ",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "KELLY JOHANNA",
+      "apellidos": "MENESES USUGA",
+      "pbx": "6044037603",
+      "extension": "8704",
+      "correo": "kmeneses@uniremington.edu.co"
+    },
+    {
+      "sede": "APARTADÓ",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "EDWARD LENER",
+      "apellidos": "PEREZ PIEDRAHITA",
+      "pbx": "6044037603",
+      "extension": "8703",
+      "correo": "eperez@uniremington.edu.co"
+    },
+    {
+      "sede": "APARTADÓ",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "CARLOS ENRIQUE",
+      "apellidos": "PACHECO ARCIRIA",
+      "pbx": "6044037603",
+      "extension": "8700",
+      "correo": "apartado@uniremington.edu.co"
+    },
+    {
+      "sede": "APARTADÓ",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "",
+      "nombres": "KELLY JOHANNA",
+      "apellidos": "AGUIRRE SALAZAR",
+      "pbx": "6044037603",
+      "extension": "8700",
+      "correo": "kaguirre@uniremington.edu.co"
+    },
+    {
+      "sede": "APARTADÓ",
+      "cargo": "SUB DIRECTOR ACADÉMICO",
+      "dependencia": "",
+      "nombres": "IRENE SOCORRO",
+      "apellidos": "MORALES ROQUEME",
+      "pbx": "6044037603",
+      "extension": "8702",
+      "correo": "imorales@uniremington.edu.co"
+    },
+    {
+      "sede": "ARMENIA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "STEPHANY",
+      "apellidos": "VALENCIA GUEVARA",
+      "pbx": "6044037627",
+      "extension": "9227",
+      "correo": "svalenciag@uniremington.edu.co"
+    },
+    {
+      "sede": "ARMENIA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "VALENTINA",
+      "apellidos": "VALLEJO AGUIRRE",
+      "pbx": "6044037627",
+      "extension": "9224",
+      "correo": "vvallejo@uniremington.edu.co"
+    },
+    {
+      "sede": "ARMENIA",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "LIBIA",
+      "apellidos": "GUTIERREZ VALENCIA",
+      "pbx": "6044037627",
+      "extension": "9223",
+      "correo": "armenia@uniremington.edu.co"
+    },
+    {
+      "sede": "ARMENIA",
+      "cargo": "COORDINADOR ADMINISTRATIVO Y\r\nFINANCIERO",
+      "dependencia": "GESTIÓN FINANCIERA",
+      "nombres": "MARTHA LILIANA",
+      "apellidos": "PAVAS MESA",
+      "pbx": "6044037627",
+      "extension": "9221",
+      "correo": "martha.pavas@uniremington.edu.co"
+    },
+    {
+      "sede": "ARMENIA",
+      "cargo": "ANALISTA  ACADEMICO",
+      "dependencia": "VICERRECTORÍA ACADÉMICA",
+      "nombres": "LINEY",
+      "apellidos": "GARCIA TABARES",
+      "pbx": "6044037627",
+      "extension": "9222",
+      "correo": "lgarcia@uniremington.edu.co"
+    },
+    {
+      "sede": "ARMENIA",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "",
+      "nombres": "ANYI DANIELA",
+      "apellidos": "DIMATE RESTREPO",
+      "pbx": "6044037627",
+      "extension": "9223",
+      "correo": "adimate@uniremington.edu.co"
+    },
+    {
+      "sede": "BUCARAMANGA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "XIMENA ISABEL",
+      "apellidos": "GOMEZ SUAREZ",
+      "pbx": "6044037608",
+      "extension": "9359",
+      "correo": "xgomez@uniremington.edu.co"
+    },
+    {
+      "sede": "BUCARAMANGA",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "MARY EVELYN",
+      "apellidos": "OSMA LANDAZABAL",
+      "pbx": "6044037608",
+      "extension": "9354",
+      "correo": "bucaramanga01@uniremington.edu.co"
+    },
+    {
+      "sede": "BUCARAMANGA",
+      "cargo": "ANALISTA  ACADEMICO",
+      "dependencia": "VICERRECTORÍA ACADÉMICA",
+      "nombres": "ENEIRA DEL CARMEN",
+      "apellidos": "PANTOJA GUERRERO",
+      "pbx": "6044037608",
+      "extension": "9356",
+      "correo": "eneira.pantoja@uniremington.edu.co"
+    },
+    {
+      "sede": "BUCARAMANGA",
+      "cargo": "AUXILIAR ADMINISTRATIVA",
+      "dependencia": "",
+      "nombres": "YANELA",
+      "apellidos": "NAVARRO FIGUEROA",
+      "pbx": "6044037608",
+      "extension": "9354",
+      "correo": "yanela.navarro@uniremington.edu.co"
+    },
+    {
+      "sede": "CALI",
+      "cargo": "COORDINADOR EXTENSIONY PROYECCION\r\nSOCIAL",
+      "dependencia": "DIRECCIÓN DE EXTESIÓN Y\r\nPROYECCIÓN SOCIAL",
+      "nombres": "ROBERTO ANDRES",
+      "apellidos": "NARVAEZ LOPEZ",
+      "pbx": "",
+      "extension": "",
+      "correo": "roberto.narvaez01@uniremington.ed\r\nu.co"
+    },
+    {
+      "sede": "CALI",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "DIANA PAOLA",
+      "apellidos": "NARVAEZ LOPEZ",
+      "pbx": "",
+      "extension": "",
+      "correo": "cali@uniremington.edu.co"
+    },
+    {
+      "sede": "CALI",
+      "cargo": "EJECUTIVO CORPORATIVO",
+      "dependencia": "",
+      "nombres": "ESTEFANY",
+      "apellidos": "SANCHEZ SALDAÑA",
+      "pbx": "",
+      "extension": "",
+      "correo": "esanchez@uniremington.edu.co"
+    },
+    {
+      "sede": "CALI",
+      "cargo": "SUB DIRECTOR ACADÉMICO",
+      "dependencia": "",
+      "nombres": "STEFANY",
+      "apellidos": "VALENCIA DUQUE",
+      "pbx": "",
+      "extension": "",
+      "correo": "svalencia@uniremington.edu.co"
+    },
+    {
+      "sede": "CAUCASIA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "AIDA LICETH",
+      "apellidos": "MONTOYA ARRIETA",
+      "pbx": "6048391089\r\n6044037620",
+      "extension": "8505",
+      "correo": "aidamontoya2000@gmail.com"
+    },
+    {
+      "sede": "CAUCASIA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "DANIELA",
+      "apellidos": "ARROYO OYOLA",
+      "pbx": "6048391089\r\n6044037620",
+      "extension": "8502",
+      "correo": "darroyo@uniremington.edu.co"
+    },
+    {
+      "sede": "CAUCASIA",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "ADRIANA MARCELA",
+      "apellidos": "PEREZ GONZALEZ",
+      "pbx": "6048391089\r\n6044037620",
+      "extension": "8500",
+      "correo": "aperez@uniremington.edu.co"
+    },
+    {
+      "sede": "CAUCASIA",
+      "cargo": "ANALISTA  ACADEMICO",
+      "dependencia": "VICERRECTORÍA ACADÉMICA",
+      "nombres": "BRYAN CAMILO",
+      "apellidos": "GUERRA OSORIO",
+      "pbx": "6048391089\r\n6044037620",
+      "extension": "8500",
+      "correo": "bguerra@uniremington.edu.co"
+    },
+    {
+      "sede": "CÚCUTA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "MICHEL MARCELA",
+      "apellidos": "MENDOZA RODRIGUEZ",
+      "pbx": "6044037607",
+      "extension": "9335",
+      "correo": "mmendozar@uniremington.edu.co"
+    },
+    {
+      "sede": "CÚCUTA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "SANDRA ELIZABETH",
+      "apellidos": "MUÑOZ RUANO",
+      "pbx": "6044037607",
+      "extension": "9334",
+      "correo": "sandra.munoz@uniremington.edu.co"
+    },
+    {
+      "sede": "CÚCUTA",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "GABRIEL JEOVANY",
+      "apellidos": "LOZANO BARRAGAN",
+      "pbx": "6044037607",
+      "extension": "9333",
+      "correo": "cucuta@uniremington.edu.co"
+    },
+    {
+      "sede": "IBAGUÉ",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "YESSICA ALEJANDRA",
+      "apellidos": "BULLA LAVERDE",
+      "pbx": "6044037621",
+      "extension": "8204",
+      "correo": "ybulla@uniremington.edu.co"
+    },
+    {
+      "sede": "IBAGUÉ",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "CAMILA ANDREA",
+      "apellidos": "URUEÑA CARDONA",
+      "pbx": "6044037621",
+      "extension": "8200",
+      "correo": "curuena@uniremington.edu.co"
+    },
+    {
+      "sede": "IBAGUÉ",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "JOHANNA CAROLINA",
+      "apellidos": "SALAS CRUZ",
+      "pbx": "6044037621",
+      "extension": "8203",
+      "correo": "ibague01@uniremington.edu.co"
+    },
+    {
+      "sede": "IBAGUÉ",
+      "cargo": "DIRECTOR (A)  DE PROGRAMA",
+      "dependencia": "FACULTAD DE MEDICINA\r\nVETERINARIA",
+      "nombres": "DIXON DANIEL",
+      "apellidos": "MENDOZA ANTONIO",
+      "pbx": "6044037621",
+      "extension": "8205",
+      "correo": "dixon.mendoza@uniremington.edu.c\r\no"
+    },
+    {
+      "sede": "IBAGUÉ",
+      "cargo": "ANALISTA ADMINISTRATIVO",
+      "dependencia": "",
+      "nombres": "YENNY ESPERANZA",
+      "apellidos": "LUNA ACOSTA",
+      "pbx": "6044037621",
+      "extension": "8203",
+      "correo": "yluna@uniremington.edu.co"
+    },
+    {
+      "sede": "IPIALES",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "JUAN JOSE",
+      "apellidos": "NARVAEZ LOPEZ",
+      "pbx": "",
+      "extension": "",
+      "correo": "ipiales@uniremington.edu.co"
+    },
+    {
+      "sede": "IPIALES",
+      "cargo": "ANALISTA  ACADEMICO",
+      "dependencia": "VICERRECTORÍA ACADÉMICA",
+      "nombres": "HECTOR ANDRES",
+      "apellidos": "VALLEJO YEPES",
+      "pbx": "",
+      "extension": "",
+      "correo": "hector.vallejo@uniremington.edu.co"
+    },
+    {
+      "sede": "IPIALES",
+      "cargo": "AUXILIAR ADMINISTRATIVA",
+      "dependencia": "",
+      "nombres": "GINNA ELIZABETH",
+      "apellidos": "GUANCHA BURGOS",
+      "pbx": "",
+      "extension": "",
+      "correo": "ginna.guancha@uniremington.edu.co"
+    },
+    {
+      "sede": "MANIZALES",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "VICTOR ANDRES",
+      "apellidos": "HENAO DUQUE",
+      "pbx": "6044037606",
+      "extension": "9204",
+      "correo": "vhenao@uniremington.edu.co"
+    },
+    {
+      "sede": "MANIZALES",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "PAULA TATIANA",
+      "apellidos": "MORALES TABARES",
+      "pbx": "6044037606",
+      "extension": "9203",
+      "correo": "pmorales@uniremington.edu.co"
+    },
+    {
+      "sede": "MANIZALES",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "LEONARDO",
+      "apellidos": "ARIAS VILLAMIL",
+      "pbx": "6044037606",
+      "extension": "9205",
+      "correo": "manizales@uniremington.edu.co"
+    },
+    {
+      "sede": "MANIZALES",
+      "cargo": "ANALISTA",
+      "dependencia": "",
+      "nombres": "CLAUDIA LILIANA",
+      "apellidos": "CASTRO GIRALDO",
+      "pbx": "6044037606",
+      "extension": "9202",
+      "correo": "ccastro@uniremington.edu.co"
+    },
+    {
+      "sede": "MANIZALES",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "",
+      "nombres": "DIANA CLEMENCIA",
+      "apellidos": "VILLEGAS CARDONA",
+      "pbx": "6044037606",
+      "extension": "9205",
+      "correo": "diana.villegas@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A) BIBLIOTECA",
+      "dependencia": "BIBLIOTECAS Y FONDO EDITORIAL",
+      "nombres": "MARIA DEL PILAR",
+      "apellidos": "CASTRO ZABALA",
+      "pbx": "6043221000",
+      "extension": "3500",
+      "correo": "mcastro@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR DE PROCESOS EDITORIALES",
+      "dependencia": "BIBLIOTECAS Y FONDO EDITORIAL",
+      "nombres": "OSCAR WILLIAM",
+      "apellidos": "CAICEDO ALARCON",
+      "pbx": "6043221000",
+      "extension": "3505",
+      "correo": "ocaicedo@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR DE PUBLICACIONES",
+      "dependencia": "BIBLIOTECAS Y FONDO EDITORIAL",
+      "nombres": "ISABEL CRISTINA",
+      "apellidos": "SERNA SALAZAR",
+      "pbx": "6043221000",
+      "extension": "3504",
+      "correo": "iserna@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A) DE BIBLIOTECA Y FONDO\r\nEDITO",
+      "dependencia": "BIBLIOTECAS Y FONDO EDITORIAL",
+      "nombres": "ADRIANA PATRICIA",
+      "apellidos": "BUSTAMANTE FERNANDEZ",
+      "pbx": "6043221000",
+      "extension": "3500",
+      "correo": "abustamante@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO BIENESTAR",
+      "dependencia": "BIENESTAR INSTITUCIONAL",
+      "nombres": "SOLANLLY",
+      "apellidos": "CANO DUQUE",
+      "pbx": "6043221000",
+      "extension": "3300",
+      "correo": "scano@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A) DE BIENESTAR\r\nINSTITUCIONAL",
+      "dependencia": "BIENESTAR INSTITUCIONAL",
+      "nombres": "LEIDY ALEXANDRA",
+      "apellidos": "LEZCANO TOBON",
+      "pbx": "6043221000",
+      "extension": "3300",
+      "correo": "bienestar@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR CLINICA VETERINARIA",
+      "dependencia": "CLÍNICAS VETERINARIAS",
+      "nombres": "JENNIFER ALEJANDRA",
+      "apellidos": "MARIN MARIN",
+      "pbx": "6043221000",
+      "extension": "9023",
+      "correo": "jennifer.marin@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR DE COMPRAS",
+      "dependencia": "COMPRAS",
+      "nombres": "JUAN FELIPE",
+      "apellidos": "OCHOA ZAPATA",
+      "pbx": "6043221000",
+      "extension": "1619",
+      "correo": "jochoa@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "CONSULTORIOS JURÍDICOS Y CC",
+      "nombres": "FERNANDO",
+      "apellidos": "MUÑOZ LOPERA",
+      "pbx": "6043221000",
+      "extension": "2900",
+      "correo": "fmunoz@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR CONSULTORIO JURIDICO",
+      "dependencia": "CONSULTORIOS JURÍDICOS Y CC",
+      "nombres": "DIANA MARIA",
+      "apellidos": "VASQUEZ GARCES",
+      "pbx": "6043221000",
+      "extension": "2910",
+      "correo": "diana.vasquez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "DIRECCIÓN DE COMUNICACIONES",
+      "nombres": "GEIDY NATALIA",
+      "apellidos": "MOSQUERA MANCO",
+      "pbx": "6043221000",
+      "extension": "2602",
+      "correo": "comunicaciones@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR (A) DE COMUNICACIONES\r\nMULTI",
+      "dependencia": "DIRECCIÓN DE COMUNICACIONES",
+      "nombres": "OSCAR ANDRES",
+      "apellidos": "JIMENEZ ARENAS",
+      "pbx": "6043221000",
+      "extension": "2604",
+      "correo": "comunicaciones@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTORA DE COMUNICACIONES",
+      "dependencia": "DIRECCIÓN DE COMUNICACIONES",
+      "nombres": "MELISA MARIA",
+      "apellidos": "PUCHE PINEDA",
+      "pbx": "6043221000",
+      "extension": "2601",
+      "correo": "mpuche@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "ANALISTA",
+      "dependencia": "EGRESADOS Y PRÁCTICAS",
+      "nombres": "YENNIFER ALEJANDRA",
+      "apellidos": "CASTAÑEDA YARCE",
+      "pbx": "6043221000",
+      "extension": "3122",
+      "correo": "ycastaneda@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "EGRESADOS Y PRÁCTICAS",
+      "nombres": "MICHELLA",
+      "apellidos": "ESTRADA PAYARES",
+      "pbx": "6043221000",
+      "extension": "3121",
+      "correo": "mestrada@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR EGRESADOS Y PRACTICAS",
+      "dependencia": "EGRESADOS Y PRÁCTICAS",
+      "nombres": "ISABEL CRISTINA",
+      "apellidos": "HERRERA RAMIREZ",
+      "pbx": "6043221000",
+      "extension": "3121",
+      "correo": "egresados@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "EXTENSIÓN Y PROYECCIÓN SOCIAL",
+      "nombres": "ALEJANDRO",
+      "apellidos": "ZAPATA MOLINA",
+      "pbx": "6043221000",
+      "extension": "7007",
+      "correo": "azapata@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR ACADEMICO",
+      "dependencia": "EXTENSIÓN Y PROYECCIÓN SOCIAL",
+      "nombres": "DIANA CAROLINA",
+      "apellidos": "TORO OCAMPO",
+      "pbx": "6043221000",
+      "extension": "7008",
+      "correo": "diana.toro@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR COMERCIAL",
+      "dependencia": "EXTENSIÓN Y PROYECCIÓN SOCIAL",
+      "nombres": "CATHERINE",
+      "apellidos": "LONDOÑO AGUDELO",
+      "pbx": "6043221000",
+      "extension": "7009",
+      "correo": "clondonoa@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR DE PROYECTOS",
+      "dependencia": "EXTENSIÓN Y PROYECCIÓN SOCIAL",
+      "nombres": "CANDIDO EULICES",
+      "apellidos": "NOVOA OVIEDO",
+      "pbx": "6043221000",
+      "extension": "7005",
+      "correo": "cnovoa@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR EXTENSION Y PROYECCION\r\nSOCIAL",
+      "dependencia": "EXTENSIÓN Y PROYECCIÓN SOCIAL",
+      "nombres": "GRIMALDY",
+      "apellidos": "YEPES ZULUAGA",
+      "pbx": "6043221000",
+      "extension": "7007",
+      "correo": "extension@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON CIENCIAS CONTABLES",
+      "dependencia": "FACULTAD DE CIENCIAS\r\nCONTABLES",
+      "nombres": "MARIA CAMILA",
+      "apellidos": "SERNA BENITEZ",
+      "pbx": "6043221000",
+      "extension": "5500",
+      "correo": "mserna@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DECANO",
+      "dependencia": "FACULTAD DE CIENCIAS\r\nCONTABLES",
+      "nombres": "JORGE ARMANDO",
+      "apellidos": "MUÑOZ RUIZ",
+      "pbx": "6043221000",
+      "extension": "5500",
+      "correo": "jorge.munoz@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVA - Enfermería",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "LUISA FERNANDA",
+      "apellidos": "GUTIERREZ CALLEJAS",
+      "pbx": "6043221000",
+      "extension": "5611",
+      "correo": "lfgutierrez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A) - Nutrición y\r\nDietética",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "LUISA FERNANDA",
+      "apellidos": "AREIZA ATEHORTUA",
+      "pbx": "6043221000",
+      "extension": "5617",
+      "correo": "lareiza@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A) - Regencia\r\nde Farmacia",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "CLAUDIA CATALINA",
+      "apellidos": "CARDONA ECHEVERRI",
+      "pbx": "6043221000",
+      "extension": "5614",
+      "correo": "ccardona@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON FAC CIEN DE SALUD  -\r\nMedicina",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "LORENA",
+      "apellidos": "HERNANDEZ VASQUEZ",
+      "pbx": "6043221000",
+      "extension": "5600",
+      "correo": "lhernandez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON FAC CIEN DE SALUD 2",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "ELIZABETH",
+      "apellidos": "GOMEZ ROJAS",
+      "pbx": "6043221000",
+      "extension": "5615",
+      "correo": "egomez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR DE PRACTICAS",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "ANA MARIA",
+      "apellidos": "ARBOLEDA GIL",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "aarboleda@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DECANO",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "JHON JAIRO",
+      "apellidos": "BOTELLO JAIMES",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "jhon.botello@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A)  DE PROGRAMA",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "LUIS CARLOS",
+      "apellidos": "SANCHEZ ROJO",
+      "pbx": "6043221000",
+      "extension": "5605",
+      "correo": "luis.sanchez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A)  DE PROGRAMA - Enfermería",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "HAROLD GIOVANNI",
+      "apellidos": "HOYOS MONTILLA",
+      "pbx": "6043221000",
+      "extension": "5612",
+      "correo": "harold.hoyos@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A)  DE PROGRAMA - Medicina",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "VIVIANA PATRICIA",
+      "apellidos": "MOLINA SALDARRIAGA",
+      "pbx": "6043221000",
+      "extension": "5602",
+      "correo": "vmolina@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A)  DE PROGRAMA - Nutrición y\r\nDietética",
+      "dependencia": "FACULTAD DE CIENCIAS DE LA\r\nSALUD",
+      "nombres": "BEATRIZ ELENA",
+      "apellidos": "GIL GIL",
+      "pbx": "6043221000",
+      "extension": "5616",
+      "correo": "beatriz.gil@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "FACULTAD DE CIENCIAS\r\nEMPRESARIALES",
+      "nombres": "XIMENA",
+      "apellidos": "YEPES VASCO",
+      "pbx": "6043221000",
+      "extension": "5802",
+      "correo": "xyepes@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DECANO",
+      "dependencia": "FACULTAD DE CIENCIAS\r\nEMPRESARIALES",
+      "nombres": "HECTOR ANDRES",
+      "apellidos": "CORREA LOPEZ",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "hcorrea@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "FACULTAD DE CIENCIAS JURÍDICAS\r\nY POLÍTICAS",
+      "nombres": "LAURA DANIELA",
+      "apellidos": "DAVID BRAN",
+      "pbx": "6043221000",
+      "extension": "5303",
+      "correo": "lddavid@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DECANO",
+      "dependencia": "FACULTAD DE CIENCIAS JURÍDICAS\r\nY POLÍTICAS",
+      "nombres": "JUAN CAMILO",
+      "apellidos": "CORDOBA TORO",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "jccordoba@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "FACULTAD DE DISEÑO",
+      "nombres": "IRIS TELVA",
+      "apellidos": "ARANGO ARANGO",
+      "pbx": "6043221000",
+      "extension": "5000",
+      "correo": "itarango@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DECANO",
+      "dependencia": "FACULTAD DE DISEÑO",
+      "nombres": "JUAN MANUEL",
+      "apellidos": "BUSTAMANTE ZAPATA",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "juan.bustamante@uniremington.edu.\r\nco"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "FACULTAD DE INGENIERÍAS",
+      "nombres": "MILDREY JOHANA",
+      "apellidos": "ATEHORTUA MORALES",
+      "pbx": "6043221000",
+      "extension": "5200",
+      "correo": "matehortua@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DECANO",
+      "dependencia": "FACULTAD DE INGENIERÍAS",
+      "nombres": "JORGE MAURICIO",
+      "apellidos": "SEPULVEDA CASTAÑO",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "jsepulveda@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVA",
+      "dependencia": "FACULTAD DE MEDICINA\r\nVETERINARIA",
+      "nombres": "MELISSA",
+      "apellidos": "MONTOYA QUICENO",
+      "pbx": "6043221000",
+      "extension": "5700",
+      "correo": "mmontoya@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DECANO",
+      "dependencia": "FACULTAD DE MEDICINA\r\nVETERINARIA",
+      "nombres": "JULIO CESAR",
+      "apellidos": "AGUIRRE RAMIREZ",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "julio.aguirre@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A)  DE PROGRAMA",
+      "dependencia": "FACULTAD DE MEDICINA\r\nVETERINARIA",
+      "nombres": "GLORIA YANETH",
+      "apellidos": "SANCHEZ ZAPATA",
+      "pbx": "6043221000",
+      "extension": "5702",
+      "correo": "gloria.sanchez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVA",
+      "dependencia": "HUMANIDADES",
+      "nombres": "DARCY MILDRED",
+      "apellidos": "HENAO GALVIS",
+      "pbx": "6043221000",
+      "extension": "5400",
+      "correo": "dhenao@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR  DE HUMANIDADES",
+      "dependencia": "HUMANIDADES",
+      "nombres": "CAMILO ANDRES",
+      "apellidos": "GALVEZ LOPERA",
+      "pbx": "6043221000",
+      "extension": "5400",
+      "correo": "humanidades@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "IDIOMAS",
+      "nombres": "LAURA MARCELA",
+      "apellidos": "BARRERA ROLDAN",
+      "pbx": "6043221000",
+      "extension": "1300",
+      "correo": "lbarrera@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "COORDINADOR AMBIENTAL",
+      "dependencia": "INFRAESTRUCTURA",
+      "nombres": "SEBASTIAN",
+      "apellidos": "ALVAREZ ROLDAN",
+      "pbx": "6043221000",
+      "extension": "1503",
+      "correo": "salvarez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A) DE INFRAESTRUCTURA",
+      "dependencia": "INFRAESTRUCTURA",
+      "nombres": "JAIRO ANDRES",
+      "apellidos": "SANCHEZ BARRERA",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "infraestructura@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR DE MUSEO",
+      "dependencia": "JEFATURA GESTIÓN DOCUMENTAL",
+      "nombres": "JUAN ESTEBAN",
+      "apellidos": "ROMAN HENAO",
+      "pbx": "6043221000",
+      "extension": "1006",
+      "correo": "jroman@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "JEFE",
+      "dependencia": "JEFATURA GESTIÓN DOCUMENTAL",
+      "nombres": "DIEGO ALEXANDER",
+      "apellidos": "GIRALDO RIOS",
+      "pbx": "6043221000",
+      "extension": "2701",
+      "correo": "dgiraldo@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVA - RECEPCIÓN",
+      "dependencia": "MERCADEO",
+      "nombres": "DANIELA",
+      "apellidos": "SANCHEZ GOMEZ",
+      "pbx": "6043221000",
+      "extension": "2512",
+      "correo": "dsanchez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR DE MERCADEO",
+      "dependencia": "MERCADEO",
+      "nombres": "CESAR AUGUSTO",
+      "apellidos": "SAENZ OÑATE",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "uniremington@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "LIDER CENTRO DE SERVICIOS VIRTUAL",
+      "dependencia": "MERCADEO",
+      "nombres": "LUISA FERNANDA",
+      "apellidos": "YEPEZ DIEZ",
+      "pbx": "6043221000",
+      "extension": "2520",
+      "correo": "lyepez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "LIDER SERVICIOS PRESENCIAL Y DISTANCIA",
+      "dependencia": "MERCADEO",
+      "nombres": "ANGELICA",
+      "apellidos": "MOLINA METAUTE",
+      "pbx": "6043221000",
+      "extension": "2552",
+      "correo": "amolina@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "PLANEACIÓN",
+      "nombres": "JORGE ALEXANDER",
+      "apellidos": "QUINTERO CORTES",
+      "pbx": "6043221000",
+      "extension": "1400",
+      "correo": "jaquintero@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR DE PLANEACION",
+      "dependencia": "PLANEACIÓN",
+      "nombres": "LINA MARCELA",
+      "apellidos": "LONDOÑO RESTREPO",
+      "pbx": "6043221000",
+      "extension": "1400",
+      "correo": "planeacion@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "CANCILLER",
+      "dependencia": "RECTORÍA - PRESIDENCIA",
+      "nombres": "PATRICIA",
+      "apellidos": "VASQUEZ POSADA",
+      "pbx": "6043221000",
+      "extension": "1000",
+      "correo": "uniremington@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "PRESIDENTE",
+      "dependencia": "RECTORÍA - PRESIDENCIA",
+      "nombres": "ALEJANDRO",
+      "apellidos": "VASQUEZ TIECK",
+      "pbx": "6043221000",
+      "extension": "1000",
+      "correo": "uniremington@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "RECTOR",
+      "dependencia": "RECTORÍA - PRESIDENCIA",
+      "nombres": "JORGE ALBEIRO",
+      "apellidos": "HERRERA BUILES",
+      "pbx": "6043221000",
+      "extension": "1000",
+      "correo": "uniremington@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "SECRETARIA RECTORIA 1",
+      "dependencia": "RECTORÍA - PRESIDENCIA",
+      "nombres": "MARGORY LUBENI",
+      "apellidos": "IBARRA QUIROZ",
+      "pbx": "6043221000",
+      "extension": "1000",
+      "correo": "mibarra@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "VICEPRESIDENTE EJECUTIVO",
+      "dependencia": "RECTORÍA - PRESIDENCIA",
+      "nombres": "TOMAS",
+      "apellidos": "VASQUEZ URIBE",
+      "pbx": "6043221000",
+      "extension": "1000",
+      "correo": "uniremington@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON REGISTRO Y CONTROL",
+      "dependencia": "REGISTRO Y CONTROL",
+      "nombres": "LEIDY JOHANNA",
+      "apellidos": "ZULETA SALAZAR",
+      "pbx": "6043221000",
+      "extension": "2109",
+      "correo": "lzuleta@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON REGISTRO Y CONTROL",
+      "dependencia": "REGISTRO Y CONTROL",
+      "nombres": "JHON ESTEBAN",
+      "apellidos": "SALAZAR CIRO",
+      "pbx": "6043221000",
+      "extension": "2104",
+      "correo": "jesalazar@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON REGISTRO Y CONTROL",
+      "dependencia": "REGISTRO Y CONTROL",
+      "nombres": "LUCELLY",
+      "apellidos": "BARRIENTOS ARANGO",
+      "pbx": "6043221000",
+      "extension": "2103",
+      "correo": "lbarrientos@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON REGISTRO Y CONTROL",
+      "dependencia": "REGISTRO Y CONTROL",
+      "nombres": "ROBERTO CARLOS",
+      "apellidos": "ORREGO CASTILLO",
+      "pbx": "6043221000",
+      "extension": "2106",
+      "correo": "rorrego@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON REGISTRO Y CONTROL",
+      "dependencia": "REGISTRO Y CONTROL",
+      "nombres": "MANUEL FELIPE",
+      "apellidos": "VALENCIA GARCIA",
+      "pbx": "6043221000",
+      "extension": "2102",
+      "correo": "mvalencia@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON REGISTRO Y CONTROL -\r\nCERTIFICADOS",
+      "dependencia": "REGISTRO Y CONTROL",
+      "nombres": "CARLOS ALBERTO",
+      "apellidos": "CASTAÑO VILLADA",
+      "pbx": "6043221000",
+      "extension": "2105",
+      "correo": "ccastano@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMON REGISTRO Y CONTROL -\r\nGRADOS",
+      "dependencia": "REGISTRO Y CONTROL",
+      "nombres": "ANGIE TATIANA",
+      "apellidos": "CASTRO AGUIRRE",
+      "pbx": "6043221000",
+      "extension": "2111",
+      "correo": "acastro@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A) REGISTRO Y CONTROL",
+      "dependencia": "REGISTRO Y CONTROL",
+      "nombres": "LINA MARCELA",
+      "apellidos": "TABORDA VASQUEZ",
+      "pbx": "6043221000",
+      "extension": "2102",
+      "correo": "ltaborda@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "RELACIONES INTERNACIONALES",
+      "nombres": "JULIANA",
+      "apellidos": "PALACIOS URRUTIA",
+      "pbx": "6043221000",
+      "extension": "1305",
+      "correo": "jpalacios@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR DE RELACIONES\r\nINTERNACIONALES",
+      "dependencia": "RELACIONES INTERNACIONALES",
+      "nombres": "MELISSA",
+      "apellidos": "MENDOZA MORALES",
+      "pbx": "6043221000",
+      "extension": "1305",
+      "correo": "internacionales@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "SECRETARIA (SECRETARIA GENERAL)",
+      "dependencia": "SECRETARÍA GENERAL",
+      "nombres": "NATALI",
+      "apellidos": "ECHEVERRI GONZALEZ",
+      "pbx": "6043221000",
+      "extension": "1151",
+      "correo": "necheverri@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "SECRETARIO GENERAL",
+      "dependencia": "SECRETARÍA GENERAL",
+      "nombres": "GUSTAVO ADOLFO",
+      "apellidos": "CASTRILLON SUAREZ",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "notificacionesjudiciales@uniremington.\r\nedu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "TALENTO HUMANO",
+      "nombres": "PAULA ANDREA",
+      "apellidos": "OCAMPO LONDOÑO",
+      "pbx": "6043221000",
+      "extension": "2011",
+      "correo": "pocampo@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR DE TALENTO HUMANO",
+      "dependencia": "TALENTO HUMANO",
+      "nombres": "FABIOLA INES",
+      "apellidos": "ALVAREZ DE VELEZ",
+      "pbx": "6043221000",
+      "extension": "2011",
+      "correo": "selección@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR DE TICS",
+      "dependencia": "TECNOLOGÍAS DE LA INFORMACIÓN",
+      "nombres": "NELSON DE JESUS",
+      "apellidos": "CARMONA BUSTAMANTE",
+      "pbx": "6043221000",
+      "extension": "2400",
+      "correo": "mesadeservicios@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTORA DE TESORERIA",
+      "dependencia": "TESORERÍA",
+      "nombres": "JOR MARY",
+      "apellidos": "MENDOZA FLOREZ",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "jmendoza@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "VICERRECTORA  ACADEMICA",
+      "dependencia": "VICERRECTORÍA ACADÉMICA",
+      "nombres": "ANA MARIA",
+      "apellidos": "JARAMILLO CARO",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "ajaramillo@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "VICERRECTOR ADMINISTRATIVO Y\r\nFINANCIERO",
+      "dependencia": "VICERRECTORÍA ADMINISTRATIVA Y\r\nFINANCIERA",
+      "nombres": "DIEGO FERNANDO",
+      "apellidos": "RENDON RUIZ",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "drendon@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "VICERRECTORÍA INVESTIGACIONES",
+      "nombres": "DARLELLY MELISA",
+      "apellidos": "LOPEZ HERNANDEZ",
+      "pbx": "6043221000",
+      "extension": "3000",
+      "correo": "dmlopez@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "VICERRECTOR(A) DE INVESTIGACIONES",
+      "dependencia": "VICERRECTORÍA INVESTIGACIONES",
+      "nombres": "LINA MARIA",
+      "apellidos": "YASSIN NOREÑA",
+      "pbx": "6043221000",
+      "extension": "3000",
+      "correo": "lyassin@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AGENTE DE MESA DE AYUDA",
+      "dependencia": "VIRTUALIDAD",
+      "nombres": "DEISY JHOANA",
+      "apellidos": "MACIAS OSORIO",
+      "pbx": "6043221000",
+      "extension": "4002",
+      "correo": "dmacias@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AGENTE DE MESA DE AYUDA",
+      "dependencia": "VIRTUALIDAD",
+      "nombres": "ANGIE PAOLA",
+      "apellidos": "SERRATO MORALES",
+      "pbx": "6043221000",
+      "extension": "4015",
+      "correo": "aserrato@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AGENTE DE MESA DE AYUDA",
+      "dependencia": "VIRTUALIDAD",
+      "nombres": "ELIZABETH",
+      "apellidos": "ORTIZ ZAPATA",
+      "pbx": "6043221000",
+      "extension": "4005",
+      "correo": "elizabethortizapata@gmail.com"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AGENTE DE MESA DE AYUDA",
+      "dependencia": "VIRTUALIDAD",
+      "nombres": "ARLEY ALBERTO",
+      "apellidos": "ARANGO PINEDA",
+      "pbx": "6043221000",
+      "extension": "4019",
+      "correo": "aarango@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AGENTE DE MESA DE AYUDA",
+      "dependencia": "VIRTUALIDAD",
+      "nombres": "ELIANA ANDREA",
+      "apellidos": "DAVID GIRALDO",
+      "pbx": "6043221000",
+      "extension": "4017",
+      "correo": "edavid@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AGENTE DE MESA DE AYUDA",
+      "dependencia": "VIRTUALIDAD",
+      "nombres": "PAOLA ANDREA",
+      "apellidos": "SUAZA VASQUEZ",
+      "pbx": "6043221000",
+      "extension": "4011",
+      "correo": "psuaza@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "AGENTE DE MESA DE AYUDA",
+      "dependencia": "VIRTUALIDAD",
+      "nombres": "LAURA ANDREA",
+      "apellidos": "ATEHORTUA GONZALEZ",
+      "pbx": "6043221000",
+      "extension": "4009",
+      "correo": "latehortua@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR (A) DE VIRTUALIDAD",
+      "dependencia": "VIRTUALIDAD",
+      "nombres": "FRANCISCO JAVIER",
+      "apellidos": "ALVAREZ GOMEZ",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "virtual@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR ZONAL",
+      "dependencia": "ZONAL DE SEDES",
+      "nombres": "CONRADO DE JESUS",
+      "apellidos": "FRANCO MONTOYA",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "cfranco@uniremington.edu.co"
+    },
+    {
+      "sede": "MEDELLÍN",
+      "cargo": "DIRECTOR ZONAL",
+      "dependencia": "ZONAL DE SEDES",
+      "nombres": "EDISON ALFONSO",
+      "apellidos": "SALDARRIAGA HINCAPIE",
+      "pbx": "6043221000",
+      "extension": "",
+      "correo": "esaldarriaga@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "COORDINADOR BIBLIOTECAS Y BASES DE\r\nDATOS",
+      "dependencia": "BIBLIOTECAS Y FONDO EDITORIAL",
+      "nombres": "MARIA JOSE",
+      "apellidos": "BEJARANO CHANTACA",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8924",
+      "correo": "mbejarano@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "COORDINADOR DE BIENESTAR",
+      "dependencia": "BIENESTAR INSTITUCIONAL",
+      "nombres": "ANGELICA DEL CARMEN",
+      "apellidos": "RODRIGUEZ PEÑA",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8904",
+      "correo": "arodriguez@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "VALENTINA",
+      "apellidos": "MARQUEZ GUARIN",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8921",
+      "correo": "vmarquez@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "ANA CRISTINA",
+      "apellidos": "MARTINEZ ORTUA",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8909",
+      "correo": "amartinez@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "MONICA ASTRID",
+      "apellidos": "VANEGAS DE HOYOS",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8921",
+      "correo": "monica.vanegas@uniremington.edu.c\r\no"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "ANGELA MARIA",
+      "apellidos": "FLOREZ ALVAREZ",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "",
+      "correo": "monteria@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "COORDINADOR DE PROGRAMA",
+      "dependencia": "FACULTAD DE CIENCIAS\r\nCONTABLES",
+      "nombres": "MISAEL REMBERTO",
+      "apellidos": "FIGUEREDO SANCHEZ",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8915",
+      "correo": "misael.figueredo@uniremington.edu.\r\nco"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "COORDINADOR CONSULTORIO JURIDICO",
+      "dependencia": "FACULTAD DE CIENCIAS JURÍDICAS\r\nY POLÍTICAS",
+      "nombres": "MARIA ANGELICA",
+      "apellidos": "SAKR BERROCAL",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8912",
+      "correo": "maria.sakr@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "COORDINADOR DE PROGRAMA",
+      "dependencia": "FACULTAD DE CIENCIAS JURÍDICAS\r\nY POLÍTICAS",
+      "nombres": "EDELBERTO",
+      "apellidos": "DE LA OSSA CHAVEZ",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8905",
+      "correo": "edelberto.delaossa@uniremington.ed\r\nu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "COORDINADOR DE PROGRAMA",
+      "dependencia": "FACULTAD DE INGENIERÍAS",
+      "nombres": "OSCAR EFRAIN",
+      "apellidos": "TUIRAN POLO",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8902",
+      "correo": "otuiran@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "COORDINADOR DE PROGRAMA",
+      "dependencia": "FACULTAD DE MEDICINA\r\nVETERINARIA",
+      "nombres": "NORIS ESTELA",
+      "apellidos": "PASTRANA PUCHE",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8922",
+      "correo": "npastrana@uniremington.edu.co"
+    },
+    {
+      "sede": "MONTERÍA",
+      "cargo": "SECRETARIA",
+      "dependencia": "",
+      "nombres": "KELLY CECILIA",
+      "apellidos": "GUETTE CONEO",
+      "pbx": "6047976550\r\n6044037622",
+      "extension": "8908",
+      "correo": "kguette@uniremington.edu.co"
+    },
+    {
+      "sede": "PALMIRA",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "DORIS PATRICIA",
+      "apellidos": "LOPEZ INSUASTY",
+      "pbx": "",
+      "extension": "",
+      "correo": "palmira@uniremington.edu.co"
+    },
+    {
+      "sede": "PALMIRA",
+      "cargo": "COORDINADOR ADMINISTRATIVO Y\r\nFINANCIERO",
+      "dependencia": "GESTIÓN FINANCIERA",
+      "nombres": "CATHERINE",
+      "apellidos": "CAICEDO OSPINA",
+      "pbx": "",
+      "extension": "",
+      "correo": "ccaicedo@uniremington.edu.co"
+    },
+    {
+      "sede": "PASTO",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "JOSE ROBERTO",
+      "apellidos": "NARVAEZ MORENO",
+      "pbx": "",
+      "extension": "",
+      "correo": "pasto01@uniremington.edu.co"
+    },
+    {
+      "sede": "PASTO",
+      "cargo": "ANALISTA  ACADEMICO",
+      "dependencia": "VICERRECTORÍA ACADÉMICA",
+      "nombres": "ANGELICA MARIA",
+      "apellidos": "VELEZ CALERO",
+      "pbx": "",
+      "extension": "",
+      "correo": "angelica.velez@uniremington.edu.co"
+    },
+    {
+      "sede": "PASTO",
+      "cargo": "ANALISTA DE BIENESTAR",
+      "dependencia": "",
+      "nombres": "MARIA ALEJANDRA",
+      "apellidos": "LOPEZ CHAVES",
+      "pbx": "",
+      "extension": "",
+      "correo": "mlopez@uniremington.edu.co"
+    },
+    {
+      "sede": "PASTO",
+      "cargo": "AUXILIAR ADMINISTRATIVA",
+      "dependencia": "",
+      "nombres": "SARA VALENTINA",
+      "apellidos": "NARVAEZ LOPEZ",
+      "pbx": "",
+      "extension": "",
+      "correo": "snarvaez@uniremington.edu.co"
+    },
+    {
+      "sede": "PASTO",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "",
+      "nombres": "CRISTHIAN MAURICIO",
+      "apellidos": "DELGADO PASUY",
+      "pbx": "",
+      "extension": "",
+      "correo": "cdelgado@uniremington.edu.co"
+    },
+    {
+      "sede": "PEREIRA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "DANIEL AUGUSTO",
+      "apellidos": "MARIN GASPAR",
+      "pbx": "6063172000",
+      "extension": "",
+      "correo": "dmarin@uniremington.edu.co"
+    },
+    {
+      "sede": "PEREIRA",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "ANA KATHERINE",
+      "apellidos": "SOSA MORENO",
+      "pbx": "6063172000",
+      "extension": "111",
+      "correo": "asosa@uniremington.edu.co"
+    },
+    {
+      "sede": "PEREIRA",
+      "cargo": "ANALISTA REGISTRO Y CONTROL",
+      "dependencia": "DIRECCIÓN DE REGISTRO Y\r\nCONTROL",
+      "nombres": "CAROLINA",
+      "apellidos": "ARBELAEZ ARBELAEZ",
+      "pbx": "6063172000",
+      "extension": "107",
+      "correo": "carolinaarbelaez133@gmail.com"
+    },
+    {
+      "sede": "PEREIRA",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "",
+      "nombres": "MICHELL",
+      "apellidos": "HERNANDEZ VALENCIA",
+      "pbx": "6063172000",
+      "extension": "",
+      "correo": "milicihv499@gmail.com"
+    },
+    {
+      "sede": "PEREIRA",
+      "cargo": "SUB DIRECTOR ACADÉMICO",
+      "dependencia": "",
+      "nombres": "JOHN EDISON",
+      "apellidos": "AMORTEGUI GRANADA",
+      "pbx": "6063172000",
+      "extension": "",
+      "correo": "john.amortegui@uniremington.edu.c\r\no"
+    },
+    {
+      "sede": "RIONEGRO",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "MICHAEL",
+      "apellidos": "CASTRO GUERRA",
+      "pbx": "6043498910\r\n6044037623",
+      "extension": "8804",
+      "correo": "mcastrog@uniremington.edu.co"
+    },
+    {
+      "sede": "RIONEGRO",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "MADY",
+      "apellidos": "ORTIZ MEJIA",
+      "pbx": "6043498910\r\n6044037623",
+      "extension": "8800",
+      "correo": "mortiz@uniremington.edu.co"
+    },
+    {
+      "sede": "RIONEGRO",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "HERNAN DARIO",
+      "apellidos": "MUNERA ESPINAL",
+      "pbx": "6043498910\r\n6044037623",
+      "extension": "8807",
+      "correo": "rionegro@uniremington.edu.co"
+    },
+    {
+      "sede": "RIONEGRO",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "",
+      "nombres": "DIANA PAOLA",
+      "apellidos": "QUINTANA MARIN",
+      "pbx": "6043498910\r\n6044037623",
+      "extension": "8807",
+      "correo": "diana.quintana@uniremington.edu.co"
+    },
+    {
+      "sede": "SAHAGÚN",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "RAFAEL JOSE",
+      "apellidos": "OROZCO LOPEZ",
+      "pbx": "6044037624",
+      "extension": "8305",
+      "correo": "rorozco@uniremington.edu.co"
+    },
+    {
+      "sede": "SAHAGÚN",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "OMAR DARIO",
+      "apellidos": "DIAZ GUERRA",
+      "pbx": "6044037624",
+      "extension": "8300",
+      "correo": "odiaz@uniremington.edu.co"
+    },
+    {
+      "sede": "SAHAGÚN",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "HENRY JHON",
+      "apellidos": "MERCADO VILLALBA",
+      "pbx": "6044037624",
+      "extension": "",
+      "correo": "hmercado@uniremington.edu.co"
+    },
+    {
+      "sede": "SINCELEJO",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "JESSICA DEL CARMEN",
+      "apellidos": "RODRIGUEZ REVOLLO",
+      "pbx": "6052740060\r\n6044037625",
+      "extension": "8405",
+      "correo": "jdrodriguez@uniremington.edu.co"
+    },
+    {
+      "sede": "SINCELEJO",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "MILENA PATRICIA",
+      "apellidos": "URUETA LUGO",
+      "pbx": "6052740060\r\n6044037625",
+      "extension": "8402",
+      "correo": "murueta@uniremington.edu.co"
+    },
+    {
+      "sede": "SINCELEJO",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "ANDREA PATRICIA",
+      "apellidos": "TORRES MERINO",
+      "pbx": "6052740060\r\n6044037625",
+      "extension": "8404",
+      "correo": "atorresm@uniremington.edu.co"
+    },
+    {
+      "sede": "SINCELEJO",
+      "cargo": "AUXILIAR ADMINISTRATIVA",
+      "dependencia": "",
+      "nombres": "ANDREA CAROLINA",
+      "apellidos": "RUIZ SALGADO",
+      "pbx": "6052740060\r\n6044037625",
+      "extension": "8404",
+      "correo": "andrea.ruiz@uniremington.edu.co"
+    },
+    {
+      "sede": "SOGAMOSO",
+      "cargo": "ANALISTA DE REGISTRO Y CONTROL",
+      "dependencia": "",
+      "nombres": "CLAUDIA",
+      "apellidos": "DELGADILLO FORERO",
+      "pbx": "",
+      "extension": "",
+      "correo": "claudia.delgadillo@uniremington.edu\r\n.co"
+    },
+    {
+      "sede": "TULUA",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "MARIA PAULA",
+      "apellidos": "NARVAEZ LOPEZ",
+      "pbx": "",
+      "extension": "",
+      "correo": "tulua@uniremington.edu.co"
+    },
+    {
+      "sede": "TULUA",
+      "cargo": "COORDINADOR ADMINISTRATIVO Y\r\nFINANCIERO",
+      "dependencia": "GESTIÓN FINANCIERA",
+      "nombres": "ANGELA MARIA",
+      "apellidos": "COLONIA BOTERO",
+      "pbx": "",
+      "extension": "",
+      "correo": "angelamariacolonia@gmail.com"
+    },
+    {
+      "sede": "YOPAL",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "YURELIS MILETH",
+      "apellidos": "POLO GOMEZ",
+      "pbx": "6044037609",
+      "extension": "",
+      "correo": "ypolo@uniremington.edu.co"
+    },
+    {
+      "sede": "YOPAL",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "CINTHIA KATRIN",
+      "apellidos": "FONSECA CERINZA",
+      "pbx": "6044037609",
+      "extension": "9314",
+      "correo": "cfonseca@uniremington.edu.co"
+    },
+    {
+      "sede": "YOPAL",
+      "cargo": "ASESOR CORPORATIVO",
+      "dependencia": "DIRECCIÓN DE MERCADEO",
+      "nombres": "JEIMY ANDREA",
+      "apellidos": "SOCHA NIÑO",
+      "pbx": "6044037609",
+      "extension": "9318",
+      "correo": "jeimy.socha@uniremington.edu.co"
+    },
+    {
+      "sede": "YOPAL",
+      "cargo": "DIRECTOR DE SEDE",
+      "dependencia": "DIRECCIÓN ZONAL",
+      "nombres": "SHIRLEY",
+      "apellidos": "MOLINA ORTIZ",
+      "pbx": "6044037609",
+      "extension": "",
+      "correo": "yopal@uniremington.edu.co"
+    },
+    {
+      "sede": "YOPAL",
+      "cargo": "AUXILIAR ADMINISTRATIVO (A)",
+      "dependencia": "",
+      "nombres": "NELSY TATIANA",
+      "apellidos": "ROZO OJEDA",
+      "pbx": "6044037609",
+      "extension": "9323",
+      "correo": "nrozo@uniremington.edu.co"
+    },
+    {
+      "sede": "YOPAL",
+      "cargo": "SUB DIRECTOR ACADÉMICO",
+      "dependencia": "",
+      "nombres": "MONICA ANDREA",
+      "apellidos": "LEON BETANCOURT",
+      "pbx": "6044037609",
+      "extension": "9313",
+      "correo": "monica.leon@uniremington.edu.co"
+    }
+  ]
+}

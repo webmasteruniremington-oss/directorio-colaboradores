@@ -1,0 +1,12 @@
+{
+  "name": "directorio-colaboradores",
+  "version": "1.0.0",
+  "description": "Directorio telefónico de colaboradores UNIREMINGTON — Excel/CSV -> JSON -> bloque WordPress",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

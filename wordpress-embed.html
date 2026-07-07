@@ -1,0 +1,91 @@
+<!--
+  BLOQUE PARA WORDPRESS
+  =====================
+  1. En tu página, agrega un bloque "HTML personalizado".
+  2. Pega TODO este contenido.
+  3. Cambia la URL de data-src (línea de abajo) por la de TU GitHub Pages.
+     Formato: https://TU-USUARIO.github.io/directorio-colaboradores/colaboradores.json
+-->
+<div id="ur-directorio" data-src="https://TU-USUARIO.github.io/directorio-colaboradores/colaboradores.json">
+  <div class="ur-head">
+    <h2 class="ur-title">Directorio telefónico de colaboradores</h2>
+    <p class="ur-sub">Áreas de servicio a la comunidad y usuarios externos</p>
+  </div>
+  <div class="ur-toolbar">
+    <input type="search" class="ur-search" placeholder="Buscar por nombre, cargo o correo…" aria-label="Buscar">
+    <select class="ur-filter ur-sede" aria-label="Filtrar por sede"><option value="">Todas las sedes</option></select>
+    <select class="ur-filter ur-dep" aria-label="Filtrar por dependencia"><option value="">Todas las dependencias</option></select>
+  </div>
+  <p class="ur-count" aria-live="polite"></p>
+  <div class="ur-grid" role="list"></div>
+  <p class="ur-empty" hidden>No se encontraron colaboradores con esos criterios.</p>
+  <p class="ur-loading">Cargando directorio…</p>
+</div>
+
+<style>
+#ur-directorio{--ur-rojo:#d6202b;--ur-rojo-osc:#a3151d;--ur-tinta:#1f2733;--ur-gris:#667085;--ur-linea:#e6e8ec;--ur-fondo:#fff;--ur-suave:#f6f7f9;--ur-radio:14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ur-tinta);max-width:1180px;margin:0 auto;padding:8px}
+#ur-directorio *{box-sizing:border-box}
+#ur-directorio .ur-head{border-left:6px solid var(--ur-rojo);padding:2px 0 2px 16px;margin-bottom:20px}
+#ur-directorio .ur-title{font-size:1.6rem;line-height:1.15;margin:0 0 4px;font-weight:800;letter-spacing:-.01em}
+#ur-directorio .ur-sub{margin:0;color:var(--ur-gris);font-size:.95rem}
+#ur-directorio .ur-toolbar{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+#ur-directorio .ur-search,#ur-directorio .ur-filter{font:inherit;padding:11px 14px;border:1px solid var(--ur-linea);border-radius:10px;background:var(--ur-fondo);color:inherit;outline:none}
+#ur-directorio .ur-search{flex:1 1 260px;min-width:0}
+#ur-directorio .ur-filter{flex:0 1 210px;cursor:pointer}
+#ur-directorio .ur-search:focus,#ur-directorio .ur-filter:focus{border-color:var(--ur-rojo);box-shadow:0 0 0 3px rgba(214,32,43,.14)}
+#ur-directorio .ur-count{margin:0 0 14px;color:var(--ur-gris);font-size:.85rem}
+#ur-directorio .ur-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+#ur-directorio .ur-card{position:relative;background:var(--ur-fondo);border:1px solid var(--ur-linea);border-radius:var(--ur-radio);padding:16px 16px 14px;overflow:hidden;transition:box-shadow .18s ease,transform .18s ease}
+#ur-directorio .ur-card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--ur-rojo)}
+#ur-directorio .ur-card:hover{box-shadow:0 8px 24px rgba(16,24,40,.1);transform:translateY(-2px)}
+#ur-directorio .ur-name{font-size:1.05rem;font-weight:700;margin:0 0 3px;line-height:1.2}
+#ur-directorio .ur-cargo{margin:0 0 10px;color:var(--ur-rojo-osc);font-weight:600;font-size:.85rem;text-transform:uppercase;letter-spacing:.02em}
+#ur-directorio .ur-badges{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+#ur-directorio .ur-badge{font-size:.72rem;padding:3px 9px;border-radius:999px;background:var(--ur-suave);color:var(--ur-gris);font-weight:600}
+#ur-directorio .ur-badge.ur-sede-badge{background:#fdeaec;color:var(--ur-rojo-osc)}
+#ur-directorio .ur-contact{display:grid;gap:6px;font-size:.86rem;border-top:1px solid var(--ur-linea);padding-top:11px}
+#ur-directorio .ur-row{display:flex;gap:8px;align-items:center;color:var(--ur-tinta)}
+#ur-directorio .ur-row .ur-lbl{color:var(--ur-gris);min-width:34px;font-size:.74rem;text-transform:uppercase;letter-spacing:.03em}
+#ur-directorio .ur-row a{color:var(--ur-rojo-osc);text-decoration:none;word-break:break-all}
+#ur-directorio .ur-row a:hover{text-decoration:underline}
+#ur-directorio .ur-empty{text-align:center;color:var(--ur-gris);padding:32px;background:var(--ur-suave);border-radius:var(--ur-radio)}
+#ur-directorio .ur-loading{color:var(--ur-gris);text-align:center;padding:24px}
+@media (max-width:520px){#ur-directorio .ur-toolbar{flex-direction:column}#ur-directorio .ur-filter{flex:1 1 auto}#ur-directorio .ur-title{font-size:1.35rem}}
+</style>
+
+<script>
+(function(){
+  var root=document.getElementById('ur-directorio');if(!root)return;
+  var SRC=root.getAttribute('data-src')||'colaboradores.json';
+  var grid=root.querySelector('.ur-grid'),count=root.querySelector('.ur-count'),empty=root.querySelector('.ur-empty'),loading=root.querySelector('.ur-loading'),search=root.querySelector('.ur-search'),selSede=root.querySelector('.ur-sede'),selDep=root.querySelector('.ur-dep'),DATA=[];
+  function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  function cap(s){s=String(s||'').toLowerCase();return s.replace(/\b\w/g,function(c){return c.toUpperCase();});}
+  function norm(s){return String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();}
+  function options(sel,values){values.filter(Boolean).sort().forEach(function(v){var o=document.createElement('option');o.value=v;o.textContent=cap(v);sel.appendChild(o);});}
+  function card(c){
+    var nombre=[c.nombres,c.apellidos].filter(Boolean).map(cap).join(' ')||'Sin nombre';
+    var ct='';
+    if(c.pbx)ct+='<div class="ur-row"><span class="ur-lbl">PBX</span><span>'+esc(c.pbx)+'</span></div>';
+    if(c.extension)ct+='<div class="ur-row"><span class="ur-lbl">Ext.</span><span>'+esc(c.extension)+'</span></div>';
+    if(c.correo)ct+='<div class="ur-row"><span class="ur-lbl">✉</span><a href="mailto:'+esc(c.correo)+'">'+esc(c.correo)+'</a></div>';
+    return '<article class="ur-card" role="listitem"><h3 class="ur-name">'+esc(nombre)+'</h3>'+(c.cargo?'<p class="ur-cargo">'+esc(cap(c.cargo))+'</p>':'')+'<div class="ur-badges">'+(c.sede?'<span class="ur-badge ur-sede-badge">📍 '+esc(cap(c.sede))+'</span>':'')+(c.dependencia?'<span class="ur-badge">'+esc(cap(c.dependencia))+'</span>':'')+'</div>'+(ct?'<div class="ur-contact">'+ct+'</div>':'')+'</article>';
+  }
+  function render(){
+    var q=norm(search.value.trim()),fs=selSede.value,fd=selDep.value;
+    var vis=DATA.filter(function(c){
+      if(fs&&c.sede!==fs)return false;
+      if(fd&&c.dependencia!==fd)return false;
+      if(q){var hay=norm([c.nombres,c.apellidos,c.cargo,c.correo,c.dependencia,c.sede].join(' '));if(hay.indexOf(q)===-1)return false;}
+      return true;
+    });
+    grid.innerHTML=vis.map(card).join('');empty.hidden=vis.length>0;count.textContent=vis.length+' de '+DATA.length+' colaboradores';
+  }
+  fetch(SRC,{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();}).then(function(json){
+    DATA=json.colaboradores||[];loading.style.display='none';
+    options(selSede,Array.from(new Set(DATA.map(function(c){return c.sede;}))));
+    options(selDep,Array.from(new Set(DATA.map(function(c){return c.dependencia;}))));
+    render();
+  }).catch(function(e){loading.textContent='No se pudo cargar el directorio ('+e.message+'). Revisa la URL del JSON.';});
+  search.addEventListener('input',render);selSede.addEventListener('change',render);selDep.addEventListener('change',render);
+})();
+</script>
