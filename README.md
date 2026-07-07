@@ -61,9 +61,15 @@ npm run build
 
 ### 4. Insértalo en WordPress
 1. Edita la página → agrega un bloque **HTML personalizado**.
-2. Pega el contenido de [`wordpress-embed.html`](wordpress-embed.html).
-3. Cambia la URL de `data-src` por la de **tu** GitHub Pages (paso 2).
-4. Publica. Listo: buscador + filtros por sede y dependencia + tarjetas de contacto.
+2. Pega el contenido de [`wordpress-embed.html`](wordpress-embed.html) (ya trae la URL real).
+3. Publica. Listo: buscador + filtros por sede y dependencia + tarjetas de contacto.
+
+> **Blindado con Shadow DOM:** el widget se renderiza dentro de un contenedor aislado, así
+> el tema o el page builder (Gutenberg/Elementor) **no pueden alterar su diseño ni su
+> estructura** (ni `wpautop`, ni el CSS del tema). Requisito: el bloque debe permitir
+> `<script>` (el bloque *HTML personalizado* de Gutenberg y el *widget HTML* de Elementor
+> lo permiten). Si un plugin de seguridad elimina scripts inline, habría que cargarlo como
+> archivo `.js` encolado o vía un mini-plugin.
 
 ## Flujo de actualización diario
 Editas el Excel → `git push` → la Action regenera el JSON → WordPress muestra los cambios
