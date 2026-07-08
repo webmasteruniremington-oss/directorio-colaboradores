@@ -1,8 +1,8 @@
 {
   "titulo": "Directorio telefónico de colaboradores",
   "subtitulo": "Áreas de servicio a la comunidad y usuarios externos",
-  "generado": "2026-07-08T14:01:38.154Z",
-  "total": 176,
+  "generado": "2026-07-08T14:05:25.265Z",
+  "total": 171,
   "columnas": [
     "sede",
     "cargo",
@@ -138,8 +138,8 @@
       "sede": "BUCARAMANGA",
       "cargo": "DIRECTOR DE SEDE",
       "dependencia": "DIRECCIÓN ZONAL",
-      "nombres": "MARY EVELYN",
-      "apellidos": "OSMA LANDAZABAL",
+      "nombres": "MARTHA",
+      "apellidos": "AMEZQUITA MARÍN",
       "pbx": "6044037608",
       "extension": "9354",
       "correo": "bucaramanga01@uniremington.edu.co"
@@ -166,20 +166,10 @@
     },
     {
       "sede": "CALI",
-      "cargo": "COORDINADOR EXTENSIONY PROYECCION\r\nSOCIAL",
-      "dependencia": "DIRECCIÓN DE EXTESIÓN Y\r\nPROYECCIÓN SOCIAL",
-      "nombres": "ROBERTO ANDRES",
-      "apellidos": "NARVAEZ LOPEZ",
-      "pbx": "",
-      "extension": "",
-      "correo": "roberto.narvaez01@uniremington.ed\r\nu.co"
-    },
-    {
-      "sede": "CALI",
       "cargo": "DIRECTOR DE SEDE",
       "dependencia": "DIRECCIÓN ZONAL",
-      "nombres": "DIANA PAOLA",
-      "apellidos": "NARVAEZ LOPEZ",
+      "nombres": "",
+      "apellidos": "",
       "pbx": "",
       "extension": "",
       "correo": "cali@uniremington.edu.co"
@@ -266,10 +256,10 @@
     },
     {
       "sede": "CÚCUTA",
-      "cargo": "DIRECTOR DE SEDE",
+      "cargo": "DIRECTOR DE SEDE (E)",
       "dependencia": "DIRECCIÓN ZONAL",
-      "nombres": "GABRIEL JEOVANY",
-      "apellidos": "LOZANO BARRAGAN",
+      "nombres": "YENNEY VICTORIA",
+      "apellidos": "MONCADA ORTEGA",
       "pbx": "6044037607",
       "extension": "9333",
       "correo": "cucuta@uniremington.edu.co"
@@ -326,10 +316,10 @@
     },
     {
       "sede": "IPIALES",
-      "cargo": "DIRECTOR DE SEDE",
+      "cargo": "COORDINADOR ADMINISTRATIVO Y FINANCIERO",
       "dependencia": "DIRECCIÓN ZONAL",
-      "nombres": "JUAN JOSE",
-      "apellidos": "NARVAEZ LOPEZ",
+      "nombres": "MILTON ALEJANDRO",
+      "apellidos": "NARVÁEZ FLÓREZ",
       "pbx": "",
       "extension": "",
       "correo": "ipiales@uniremington.edu.co"
@@ -436,16 +426,6 @@
     },
     {
       "sede": "MEDELLÍN",
-      "cargo": "DIRECTOR (A) DE BIBLIOTECA Y FONDO\r\nEDITO",
-      "dependencia": "BIBLIOTECAS Y FONDO EDITORIAL",
-      "nombres": "ADRIANA PATRICIA",
-      "apellidos": "BUSTAMANTE FERNANDEZ",
-      "pbx": "6043221000",
-      "extension": "3500",
-      "correo": "abustamante@uniremington.edu.co"
-    },
-    {
-      "sede": "MEDELLÍN",
       "cargo": "AUXILIAR ADMINISTRATIVO BIENESTAR",
       "dependencia": "BIENESTAR INSTITUCIONAL",
       "nombres": "SOLANLLY",
@@ -523,16 +503,6 @@
       "pbx": "6043221000",
       "extension": "2604",
       "correo": "comunicaciones@uniremington.edu.co"
-    },
-    {
-      "sede": "MEDELLÍN",
-      "cargo": "DIRECTORA DE COMUNICACIONES",
-      "dependencia": "DIRECCIÓN DE COMUNICACIONES",
-      "nombres": "MELISA MARIA",
-      "apellidos": "PUCHE PINEDA",
-      "pbx": "6043221000",
-      "extension": "2601",
-      "correo": "mpuche@uniremington.edu.co"
     },
     {
       "sede": "MEDELLÍN",
@@ -1456,30 +1426,20 @@
     },
     {
       "sede": "PALMIRA",
-      "cargo": "DIRECTOR DE SEDE",
-      "dependencia": "DIRECCIÓN ZONAL",
-      "nombres": "DORIS PATRICIA",
-      "apellidos": "LOPEZ INSUASTY",
-      "pbx": "",
-      "extension": "",
-      "correo": "palmira@uniremington.edu.co"
-    },
-    {
-      "sede": "PALMIRA",
       "cargo": "COORDINADOR ADMINISTRATIVO Y\r\nFINANCIERO",
       "dependencia": "GESTIÓN FINANCIERA",
-      "nombres": "CATHERINE",
-      "apellidos": "CAICEDO OSPINA",
+      "nombres": "ANGIE TATIANA",
+      "apellidos": "CÓRDOBA PANTOJA",
       "pbx": "",
       "extension": "",
-      "correo": "ccaicedo@uniremington.edu.co"
+      "correo": "acordoba@uniremington.edu.co"
     },
     {
       "sede": "PASTO",
-      "cargo": "DIRECTOR DE SEDE",
+      "cargo": "COORDINADORA ADMINISTRATIVA Y FINANCIERA",
       "dependencia": "DIRECCIÓN ZONAL",
-      "nombres": "JOSE ROBERTO",
-      "apellidos": "NARVAEZ MORENO",
+      "nombres": "CLAUDIA ERIKA",
+      "apellidos": "PORTELLA AFANADOR",
       "pbx": "",
       "extension": "",
       "correo": "pasto01@uniremington.edu.co"
@@ -1493,26 +1453,6 @@
       "pbx": "",
       "extension": "",
       "correo": "angelica.velez@uniremington.edu.co"
-    },
-    {
-      "sede": "PASTO",
-      "cargo": "ANALISTA DE BIENESTAR",
-      "dependencia": "",
-      "nombres": "MARIA ALEJANDRA",
-      "apellidos": "LOPEZ CHAVES",
-      "pbx": "",
-      "extension": "",
-      "correo": "mlopez@uniremington.edu.co"
-    },
-    {
-      "sede": "PASTO",
-      "cargo": "AUXILIAR ADMINISTRATIVA",
-      "dependencia": "",
-      "nombres": "SARA VALENTINA",
-      "apellidos": "NARVAEZ LOPEZ",
-      "pbx": "",
-      "extension": "",
-      "correo": "snarvaez@uniremington.edu.co"
     },
     {
       "sede": "PASTO",
@@ -1696,10 +1636,10 @@
     },
     {
       "sede": "TULUA",
-      "cargo": "DIRECTOR DE SEDE",
+      "cargo": "ANALISTA ACADÉMICA",
       "dependencia": "DIRECCIÓN ZONAL",
-      "nombres": "MARIA PAULA",
-      "apellidos": "NARVAEZ LOPEZ",
+      "nombres": "",
+      "apellidos": "",
       "pbx": "",
       "extension": "",
       "correo": "tulua@uniremington.edu.co"
@@ -1773,6 +1713,16 @@
       "pbx": "6044037609",
       "extension": "9313",
       "correo": "monica.leon@uniremington.edu.co"
+    },
+    {
+      "sede": "POPAYÁN",
+      "cargo": "COORDINADOR ADMINISTRATIVO Y FINANCIER",
+      "dependencia": "",
+      "nombres": "GUILLERMO ALBERTO",
+      "apellidos": "DIAZ ESPINOSA",
+      "pbx": "",
+      "extension": "",
+      "correo": "guillermo.diaz@uniremington.edu.co"
     }
   ]
 }
